@@ -1,0 +1,7 @@
+C:\Users\HP\documents\visual studio 2017\Projects\oop-konular\IO-giriscikis\bin\Debug\IO-giriscikis.exe.config
+C:\Users\HP\documents\visual studio 2017\Projects\oop-konular\IO-giriscikis\bin\Debug\IO-giriscikis.exe
+C:\Users\HP\documents\visual studio 2017\Projects\oop-konular\IO-giriscikis\bin\Debug\IO-giriscikis.pdb
+C:\Users\HP\documents\visual studio 2017\Projects\oop-konular\IO-giriscikis\obj\Debug\IO-giriscikis.csprojResolveAssemblyReference.cache
+C:\Users\HP\documents\visual studio 2017\Projects\oop-konular\IO-giriscikis\obj\Debug\IO-giriscikis.csproj.CoreCompileInputs.cache
+C:\Users\HP\documents\visual studio 2017\Projects\oop-konular\IO-giriscikis\obj\Debug\IO-giriscikis.exe
+C:\Users\HP\documents\visual studio 2017\Projects\oop-konular\IO-giriscikis\obj\Debug\IO-giriscikis.pdb
